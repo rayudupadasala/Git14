@@ -1,0 +1,2 @@
+write the palybook
+ansible-playbook linux --syntax-check
